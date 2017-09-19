@@ -1,4 +1,4 @@
-# Multigraph
+# Multigraph Version 0.11
 
 This repository contains materials for the paper "MultiGraph: Efficient Graph Processing on GPUs".  
 
@@ -6,7 +6,7 @@ This repository contains materials for the paper "MultiGraph: Efficient Graph Pr
 Installation
 ==============
 
-Running  './install.sh' without any arguments puts out the following help message.
+Running  './install.sh' without any arguments.
 
 
 Software requirements:
