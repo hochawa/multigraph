@@ -31,6 +31,7 @@ Benchmarking
 ============
 
 BFS : ./BFS file-name.mtx source-vertex num-of-iteration (e.g., ./BFS soc-LiveJournal1.mtx 0 1)
+
 SSSP, BC, CC, DATA-DRIVEN-PR, TOPOLOGY-DRIVEN-PR are the same. 
 
 
